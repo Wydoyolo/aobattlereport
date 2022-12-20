@@ -1,0 +1,13 @@
+{
+  "name": "albion-multi-tool",
+  "version": "0.0.0",
+  "description": "AlbionMultiTool",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "canvas": "^2.10.2",
+    "discord.js": "^14.7.1"
+  }
+}

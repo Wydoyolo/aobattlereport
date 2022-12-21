@@ -5,9 +5,13 @@
 BOT has been migrated from discordjs v12 to v14 but doesn't use the slash commands.
 
 Tested with: 
+
 node 18.12.1
+
 discordjs 14.7.1
+
 canvas 2.10.2
+
 
 ## Installation
 
@@ -36,7 +40,9 @@ node server.js
 !m battle ID
 !m battles ID ID ID ID ID
 ```
-
+## Support
+BTC: bc1qajzsfpcwwdwmw07smuvg8zwc4q369x2zntz095
+ETH: 0x8Ea24Cf6dB2919049c911BBFcD10BF328A02BA08
 ## License
 
 MIT
